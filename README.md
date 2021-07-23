@@ -34,3 +34,9 @@ https://github.com/tinymce/tinymce
 - `[domain]/wp-json` will reveal all of the publicly accessible API end points
 - `[domain]/wp-json/wp/v2/page_module` will reveal all page modules created and their unique IDs
 - `[domain]/wp-json/wp/v2/page_module/[page module ID]/meta` will reveal all field unique identifying keys and their values
+
+
+## Examples
+https://www.loom.com/i/8552fca80a9041559bfbe697ca9f7ecf  
+https://www.loom.com/i/67269d8cdb09401bad92b62c08151898  
+https://www.loom.com/i/29297776862d40ab8665878c198cdd35
